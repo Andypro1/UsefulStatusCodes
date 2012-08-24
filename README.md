@@ -24,6 +24,7 @@ Given that many packets traveling across the web today strive for terseness in o
 	311 Also Afk.. Gone Home
 	312 Afk Lunch
 	314 Afk Bed
+	315 Look Over There
 
 10.4 Client Error 4xx
 ---------------------
